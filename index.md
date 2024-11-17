@@ -1,8 +1,3 @@
----
-layout: default
-title: "DSC 180A Methodology Assignment 5"
----
-
 # Welcome to Nancy's Capstone Project
 
 **Name**: Nan Huang  
