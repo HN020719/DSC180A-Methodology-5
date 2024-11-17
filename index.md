@@ -2,7 +2,7 @@
 title: "DSC 180A Methodology Assignment 5"
 ---
 
-# Welcome to My GitHub Pages Site
+# Welcome to Nancy's Capstone Project
 
 **Name**: Nan Huang  
 **Email**: n5huang@ucsd.edu  
